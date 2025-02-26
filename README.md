@@ -1,5 +1,5 @@
-# The-New-York-Times-Image-Downloader
-The New York Times sends out a daily briefing newsletter to the inboxes of subscribers every week from Monday to Friday. This script downloads the high quality photos of news around the world straight from your inbox
+# Ellie, a photograph pirate
+The New York Times sends out a daily briefing newsletter to the inboxes of subscribers every week from Monday to Friday. Ellie downloads stunning and captivating photos of news around the world straight from your inbox and saves them in folders named after the day they were taken.
 
 !!!READ THIS AND DO THIS FIRST!!!!
 1. Clone this repo: `git clone https://github.com/Canopy-PurpleSky/The-New-York-Times-Image-Downloader.git`
